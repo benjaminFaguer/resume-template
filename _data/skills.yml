@@ -8,7 +8,9 @@
   description: REDCap, Open Data Kit, QGIS, Systèmes d'exploitation Linux, Mac OS, et Windows, Suite Office
 
 # Langues
-- skill: Français (langue maternelle), Anglais (Maîtrise à l'oral et à l'écrit, niveau C2), Japonais (Débutant, niveau JLPT N5).
+- skill: Langues
+  description: Français (langue maternelle), Anglais (Maîtrise à l'oral et à l'écrit, niveau C2), Japonais (Débutant, niveau JLPT N5).
 
 # Autres compétences
-- skill: Communication orale et écrite (Francais, Anglais), enseignement.
+- skill: Autres compétences
+  description: Communication orale et écrite (Francais, Anglais), enseignement.
