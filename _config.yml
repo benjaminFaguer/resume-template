@@ -23,7 +23,7 @@ resume_contact_address:         "1, chemin de la croix d'Ardennes, 53810 Changé
 resume_header_contact_info:     "1, chemin de la croix d'Ardennes, 53810 Changé • +33 (0) 6 24 01 52 19 • benjamin.faguer@tutanota.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Je suis Data Manager dans le domaine de la recherche. J'ai travaillé sur des projets traitant de la tuberculose, la malnutrition et Ebola.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
